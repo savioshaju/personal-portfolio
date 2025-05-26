@@ -16,7 +16,10 @@ body {
 
   color: #615858 !important;
 }
+.nav-link:hover{
+  color: rgb(156, 156, 212);
 
+}
 #menu-toggle {
   display: none;
 }
